@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gabrielgerhardt/College/C_classes/Parameters'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _quadrado, symObjAddr: 0x0, symBinAddr: 0x100003F00, symSize: 0x24 }
+  - { offset: 0x41, size: 0x8, addend: 0x0, symName: _quadrado, symObjAddr: 0x0, symBinAddr: 0x100003F00, symSize: 0x24 }
+  - { offset: 0x69, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x24, symBinAddr: 0x100003F24, symSize: 0x68 }
+...
