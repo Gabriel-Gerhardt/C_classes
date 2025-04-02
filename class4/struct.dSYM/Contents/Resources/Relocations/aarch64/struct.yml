@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gabrielgerhardt/College/C_classes/class4/struct'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DE0, symSize: 0x78 }
+  - { offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DE0, symSize: 0x78 }
+  - { offset: 0x77, size: 0x8, addend: 0x0, symName: _scanDate, symObjAddr: 0x78, symBinAddr: 0x100003E58, symSize: 0x4C }
+  - { offset: 0x9B, size: 0x8, addend: 0x0, symName: _dateFormat1, symObjAddr: 0xC4, symBinAddr: 0x100003EA4, symSize: 0xB4 }
+...
